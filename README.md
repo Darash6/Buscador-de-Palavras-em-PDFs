@@ -86,7 +86,6 @@ Agora, vá até a pasta `dist/` e execute `buscador_pdfs.exe` para testar se est
 ### **5️⃣ Opcional: Compactar e Distribuir**  
 Se quiser distribuir seu programa, pode compactar a pasta `dist/` em um `.zip` e compartilhar o arquivo `.exe` com outras pessoas.  
 
-Caso precise gerar uma **versão instalável (.msi)**, posso te ajudar com isso também! 😊
 ---
 
 ## ⚙️ **Configuração da Pasta Padrão**  
