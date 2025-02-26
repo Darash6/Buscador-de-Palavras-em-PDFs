@@ -87,7 +87,7 @@ class PDFSearchApp(QWidget):
 
     def init_ui(self):
         """Cria a interface gráfica."""
-        self.setWindowIcon(QIcon(r"C:\Users\darash\PycharmProjects\PythonProject\logoempresa.ico"))
+    #   self.setWindowIcon(QIcon(r"Colocar onde está a imagem"))
         self.setWindowTitle("Buscador de Palavras em PDFs")
         self.setGeometry(200, 200, 600, 500)
 
